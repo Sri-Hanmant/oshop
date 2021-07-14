@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "oshop-b7573",
+    "public": "dist/oshop",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
